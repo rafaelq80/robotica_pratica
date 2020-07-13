@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/rafaelq80/robotica_pratica)
+
 # Robótica Prática
 
 ## Primeiros passos na Robótica
